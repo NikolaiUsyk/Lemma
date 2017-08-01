@@ -70,9 +70,7 @@ The video cut off, Ivan was calling.
 
 * __Julie Li__
 
-Slow pedal, wind and leaf in autumn.
-Tibia, fibula, femur, quad and calf.
-How one pulls while the other pushes - how can sinew push?
+Green. No, not crisp. Crisp is cooler; this is body temperature, feels perfect. Climate change. There it goes again. No, not body temperature, that's like 98. Equilibrium? Yeah, that's right. The natural epidermal temperature such that the heat produced by the metabolic process is dissipated to the ambient environment at the same rate as it's produced.  Medical biochemistry, CH 353, last spring.  Some of it was sinking in. Dr. Molinari would be proud. No, satisfied. Ryan was
 
 ****
 
