@@ -1,12 +1,11 @@
 
 * __Vikram Apte__
 
-Vikram was late. Why?
+Vikram was late, which was uncharacteristic.  
+
 
 
 He's having a bad day.
-
-Does he usually start with 'sun salutation'
 
 Boss name is Sunil.
 
