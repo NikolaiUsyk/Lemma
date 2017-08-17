@@ -1,0 +1,3 @@
+__Choi Jae-Woon__
+
+He's 22 years old.  Got out of the mandatory military almost one year ago.  He's decided to become a pro gamer.  He has a sister, but she's into other cultures so his parents dote on him because he gives lip-service (it's more than that) to traditional Korean culture.  Anyway he decided a couple months ago that the best way to become, more like only way, a great pro-gamer is to understand how games work.  So he's been digging into the languages that underpin game development and computer architecture for the past 6 months.  Truth be told, he doesn't even play the games much anymore.  He's sucked into the code.
