@@ -1,5 +1,4 @@
-
-* __Julie Li__
+## Julie Li
 
 Julie Li decided to ride her bike to campus.  It was a nice day for late October, the road was dry and she had half-purposefully missed the bus to the subway to the el or trolley and over the river. She turned West on Fairmount, unhurriedly, midterms over, no tests for another four weeks. MCATs coming up though, next month. Shit no, two weeks. Red light. Pull break levers. Wobble slighly. Put right foot down. Lean on rams-head handlebars and take a deep breath. Why the moment she felt happy about anything did she need to find a thought to pull it back?
 
@@ -14,3 +13,4 @@ Green. No, not crisp. Crisp is cooler; this is body temperature, feels perfect. 
 -- Dow the hill thinking don't want to go to med school because grad at 31-35 don't they want grandkids --
 
 -- Parks bike and WTF on stick? --
+

@@ -1,4 +1,4 @@
--   **Vikram Apte**
+## Vikram Apte
 
 Vikram was late. Why?
 
@@ -10,7 +10,7 @@ Boss name is Sunil.
 
 They're sending him to Australia immediately.
 
--   **Julie Li**
+## Julie Li
 
 Julie Li decided to ride her bike to campus. It was a nice day for late
 October, the road was dry and she had half-purposefully missed the bus
@@ -49,7 +49,7 @@ what is it? --
 
 -- Parks bike and WTF on stick? --
 
--   **Dmitri and Ivan Shevckenko**
+## Dmitri and Ivan Shevckenko	
 
 Broad, gloomy Dmitri Shevchenko leaned forward in his chair in the
 second to last row of the Patriarchal Cathedral of the Resurrection of
