@@ -1,2 +1,7 @@
 theme: jekyll-theme-hacker
+title: Lemma
+description: Man is a bridge
+show_downloads: true
+google_analytics:
 chapter_path: /chapters.html
+ 
