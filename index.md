@@ -1,16 +1,21 @@
 ---
 layout: default
 title: Lemma The Book
-<!-- categories:
- - home -->
 ---
 
-AI/ Sci-Fi/ mystery novel
+__AI/ Sci-Fi/ mystery novel__
 
 _"Sometimes science is more art than science."_
 _-Rick Sanchez_
 
-<!-- # $ cat about.txt
+{% for chapter in site.categories.chapters %}
+chapter
+{ %endfor %}
+
+ <!-- categories:
+ - home 
+
+# $ cat about.txt
 {:id="about"}
 
 This is a theme intended to use to [lampiaosec](https://lampiaosec.github.io). So, it's our taste, but because we like free culture, it's free to.

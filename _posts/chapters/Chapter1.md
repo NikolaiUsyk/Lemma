@@ -1,3 +1,10 @@
+---
+layout: post
+title: Chapter1
+categories: chapters
+comments: true
+---
+
 ## Vikram Apte
 
 Vikram was late. Why?
