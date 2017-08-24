@@ -1,19 +1,21 @@
 title: Lemma
 description: Man is a bridge
 markdown: kramdown
-permalink: /:categories/:title
+permalink: pretty
 encoding: bom|utf-8
 
 keywords: "Fiction, AI, Sci-Fi, Adventure"
 baseurl: "/Lemma"
 url: "https://nikolaiusyk.github.io/Lemma/"
 fanpage_id: ""
+include: ['_pages']
 
 # Site general settings
 lang: "en"
 ssl: false # It will redirect to https
 
 # Media
+# /:categories/:title
 # Just the shortname:
 # facebook: lampiaosec # Rigth
 # facebook: facebook.com/lampiaosec # Wrong

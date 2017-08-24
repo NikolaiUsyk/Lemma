@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Chapter1
-categories: chapters
-comments: true
+description: "The first chapter"
+permalink: /chapters/Chapter1
 ---
 
 ## Vikram Apte
