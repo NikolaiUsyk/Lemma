@@ -1,8 +1,10 @@
-theme: jekyll-theme-hacker
 title: Lemma
 description: Man is a bridge
+markdown: kramdown
+# permalink: /:categories/:title
+encoding: bom|utf-8
+
+
 show_downloads: true
 google_analytics:
-markdown: kramdown
-permalink: /:categories/:title
  
