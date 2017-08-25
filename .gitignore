@@ -11,6 +11,7 @@
 *.cb
 *.cb2
 .vscode/*
+_site/*
 
 ## Intermediate documents:
 *.dvi

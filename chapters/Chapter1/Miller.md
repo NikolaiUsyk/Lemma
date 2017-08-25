@@ -1,5 +1,4 @@
-
-* __Glenda Miller__
+### Glenda Miller
 
 - Scammer?
 
