@@ -30,7 +30,7 @@ He pulled his clothes out blind and ran out the door. Wait, he can't call from a
 
 He sprinted down the street to the commuter train, threw elbows in the crush, and waited miserable and crammed standing up holding his bag against his stomach in the hot solid mass of flesh.  He and his neighbors sweat through his shirt. They'd write him up for that too, perhaps.
 
-Maybe he'll be alright and nothing will change; the whole city must be in a similar situation situation. He's well liked, one of the most compenent. He pulled out the stick as he sprinted to the next train in Chhatrapati Shivaji Terminus[^mumbaiTrain](Footnote?). No service and no wifi. Something is definitely going on. It'll probably be him and Avarind patching it up. It's strange that no one seems to be panicking. He slid onto the express train much more easily than usual; that's how late he is the crush is already ebbing.
+Maybe he'll be alright and nothing will change; the whole city must be in a similar situation situation. He's well liked, one of the most compenent. He pulled out the stick as he sprinted to the next train in Chhatrapati Shivaji Terminus<!--[^mumbaiTrain](Footnote?)-->. No service and no wifi. Something is definitely going on. It'll probably be him and Avarind patching it up. It's strange that no one seems to be panicking. He slid onto the express train much more easily than usual; that's how late he is the crush is already ebbing.
 
 Suddenly, he remembered last night. It must have drained the power stuck in a loop looking for a connection, which was down because of the power, to push the code he was bragging about yesterday. He should really keep his mouth shut about that. After a few beers he wanted to show everyone how great he is. Weird though that the exploit he found would get him in trouble like this. He expected the cybercrimes division not a power outage plus bad timing.
 
@@ -42,22 +42,29 @@ When he arrived at the second floor stairway door covered in sweat it latched au
 
 Avarind came running up to him. "Vikram! Where the fuck have you been." he whispered as he led him away toward his cubicle.
 
+"It's all out isn't it? My alarms...", he half smiled at the pleasure of explaining to someone other than himself.
+
+"Yeah, in fucking Australia!" Avarind shouted inadvertently. He covered his mouth and peeked over the wall of Vikram's cubicle. He lowered his voice for Vikram, deflated and bewildered. "God you really do look terrible." He checked the hallway again, "I'll go grab you some water." He came back calmer with a water bottle and a paper towel. "Dude, Sunil is furious.  I mean furious and directly out here. It's the worst crisis I've ever seen and you're two hours late. He looked like a fucking tomato. You might already be fired. Look it's Australia. What the hell was in that code you sent me?"
+
+Every other piece of the explanation Vikram had devised for the day had been wrong, why not this one too. He dripped some of the water on the towel and laid it on his forehead; he gave a faint laugh, "Why, did you get it?"
+
+"The fuck are you laughing at? No, I didn't get it. You promised to send it so I can't be sure. I've only had a couple hours, but..." and he checked the hallway again, "whatever did this, it looks kinda like what you described. And it's kind of in your style, fuck a bunch of it is even in Haskell."
+
+"No?" Vikram shot up shocked as Sunil appeared in the doorway.
+
+"Vikram, follow me, now." And he was gone. Vikram shot up, grabbed the water bottle and practically kicked Avarind's knees out of his way. He jogged to catch up with Sunil just as he was entering his office. "Sit!"
+
+Vikram almost started into his narrative even though he knew it would only make things worse, but as soon as Sunil sat down, he pulled out an envelope and tossed it across his desk. His moustache and glasses were almost quivering with anger. 
+
+"Every single server in Western Australia is out. Mom and pop stores, father and son projects, kiddie porn creeper in his basement.  It's all gone.  Not the same architecture, some aren't even connected to the internet. The computers are fine, it's not an EMF. It's only Western Australia, and it stops precisely at the province border. As you know, we provide IT for the port of Perth..."
+
+"The hospital! The..."
+
+"Shut up!" He roared and slammed his fist on the envelope. "Shut up. People are going to die, this is a natural disaster. And you show up at 9 am. This is your flight to Perth. It leaves in 1 hour 45 minutes. You miss it, you're fired. Go." 
+
 ---
-
-"It's all out isn't it? My alarms ..."
-
-Avarind notices he looks like shit.
-Avarind Speaking:
-- I don't know if you're about to get fired?
-- Sunil is furious.  I mean furious.  He looked like a fucking tomato. No nothing is out here, why would you think that.  Look it's Australia.
-
-Sunil speaking:
--   Sunil enters and takes Vikram away.  Every single server in Western Australia is out.  Mom and pop stores, father and son projects, kiddie porn creeper in his basement.  It's all gone.  Not the same architecture, some aren't even connected to the internet. The computers are fine so it's not an EMF. It makes no sense. 
--   You're lucky you got here when you did, I was going to fire you in five minutes.  No excuses.  
--   You're on a flight to Australia. It leaves in an hour and 45 minutes. Yeah I booked it for you three hours ago.  I left seventy messages.  Miss the flight and you're fired. Run.
-
----
-
+<!--
 Missed message is becoming a kind of a trope.  It's what we're trying to avoid in technology.
 
 HIS CODE IS IN WHAT BREAKS THE SERVERS!  Lemma took it and used it to do that and shut off his phone in the meantime!
+-->

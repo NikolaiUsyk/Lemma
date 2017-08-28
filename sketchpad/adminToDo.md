@@ -4,7 +4,7 @@
 -   Finish intro to Vikram tomorrow before you do any real work.
 
 ## Immediate Work Tasks
--   Rewrite make with python.  Can I make python a stand-alone application?  Maybe just do it in shell.
+-   Rewrite make with python.  Can I make python a stand-alone application? 
 -   If I'm making a package for my project at what point should I make it a standalone package. (use stat to get last updated date)
 -   It could really be a single class.
 -   Call it makr:  A way to __*SIMPLY*__ automate builds. Also runnr?
