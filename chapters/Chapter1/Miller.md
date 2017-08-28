@@ -1,3 +1,11 @@
+---
+title: Intro to Glenda
+chapter: 1
+location: Albany, Western Australia
+level: 2
+order: 3
+---
+
 ### Glenda Miller
 
 - Scammer?
