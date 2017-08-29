@@ -1,7 +1,6 @@
 ## Site
 -   Python Static Site Generator? Pelican Looks promising.
 -   Maybe do the Ruby tutorial
--   Finish intro to Vikram tomorrow before you do any real work.
 
 ## Immediate Work Tasks
 -   Rewrite make with python.  Can I make python a stand-alone application? 
