@@ -1,5 +1,5 @@
 ---
-title: Intro to Vikram
+section: Intro to Vikram
 chapter: 1
 location: Mumbai
 level: 2

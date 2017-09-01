@@ -28,7 +28,7 @@ They look at her like, "Oh of course you're here."  Pigeonholed.  Do white peopl
 
 -- Philadelphia and Art Museum are greek but Schulykill is not, why and what is it? --
 
--- Down the hill thinking don't want to go to med school because grad at 31-35 don't they want grandkids --
+-- Down the hill thinking don't want to go to med school because grad at 31-35 don't they want grandkids. "Dad makes appt for MCAT."  Get to Penn, make Deans list, participate in at least one extra curricular. You'd think they'd see you're competent by then. --
 
 -- Parks bike and WTF on stick? --
 
