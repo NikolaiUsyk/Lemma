@@ -12,17 +12,17 @@ Julie Li decided to ride her bike to campus.  It was a nice day for late October
 
 Green. No, not crisp. Crisp is cooler; this is body temperature, feels perfect. Climate change. There it goes again. No, not body temperature, that's like 98. Equilibrium? Yeah, that's right. The natural epidermal temperature such that the heat produced by the metabolic process is dissipated to the ambient environment at the same rate as it's produced.  Medical biochemistry, CH 353, last spring. Some of it was sinking in. Dr. Molinari would be proud. No, satisfied. Ryan was in that class, in her lab group. Not in any this semester though, too bad. He was easy to work with. Why? It felt like he didn't assume too much about her except competence. Men, well boys, it seemed like sometimes didn't think she was as smart, maybe. Ryan didn't exude that. And he was tall. Is it a crush? No not a crush. If she had a crush she would just ask him out. Definitely, she would go for it, but now MCATs and everything.
 
-Peek back over the shoulder on the downslope, watch for car doors ahead. Clear. Over to the turning lane and that's a hell of a light to make. 
+Peek back over shoulder on the downslope, watch for car doors. Clear. Over to the turning lane and that's a hell of a light to make. The city is quiet at 11, like a collective nap. Faster now for the hill to the bridge on the straightaway in front of the [stairs](https://farm6.staticflickr.com/5216/5462733142_2d3636baba_z.jpg). Curl the ankle with the calf muscle, what's it called?  Something with a G, like stomach. Gastocnemius, strange prefix for the leg.
+
+Physiology wins again.
 
 - Think about physics/physiology
 - Then the pleasure in thinking about it.
 - Then do I really want to be a doctor.
 
-They look at her like, "Oh of course you're here."  Pigeonholed.  Do white people feel like that everywhere?
+They look at her like, "Oh of course you're here."  Pigeonholed.  Do white people feel like that everywhere? __TOO STRONG__
 
 ---
-
--- Turning on Kelly Dr and around art museum --
 
 -- Over the bridge.  Thinking about how the body works when riding a bike. Leg muscles and how to ride a bike (curling the ankle using calf muscle) --
 
