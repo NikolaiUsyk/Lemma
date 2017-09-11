@@ -1,9 +1,10 @@
 ---
-title: Intro to Julie
+title: Chapter1
 chapter: 1
 location: Philadelphia
 level: 2
 order: 2
+character: Julie Li
 ---
 
 ### Julie Li
@@ -22,4 +23,4 @@ She stopped at 34th and Market and took a deep breath again. The intersection wh
 
 She dismounted at the edge of campus and pulled her bike over the curb onto the crowded sidewalk a little unsteady. She slid her bike alongside the parking bollard. Why were they pushing her so hard, don't they want grandchildren? Isn't that why they came to this country? To have more than one. Didn't they want that option for her? She fumbled for her stick and took three big breaths. She tried to clear the negativity, understand that it was her go-to emotion and that it didn't have to be. She thought of the vetebrate anatomy class starting in an hour, the lecture hall, the old smell of the buildings, the coffee shop three doors down and the very near future mocha latte in her own mug.
 
-She pulled out her stick to swipe the fob for the parking arm to lock the bike. Nothing happened. Strange. She swiped a few more times until she realized her stick was off. Whatever, these things didn't make much sense to her. She hit the power button on the side and immediately the hologram rose and showed an image of a lambda in a circle. She knew that was very unusual.
+She pulled out her stick to swipe the fob for the parking arm to lock the bike. Nothing happened. Strange. She swiped a few more times until she realized her stick was off. Whatever, these things didn't make much sense to her. She hit the power button on the side and immediately the hologram rose and showed an image of a lambda in a circle. She knew that was unusual.

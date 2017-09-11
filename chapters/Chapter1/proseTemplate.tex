@@ -21,12 +21,27 @@ $if(euro)$
   \usepackage{eurosym}
 $endif$
 
+\usepackage[left=0.9in,
+right=0.9in,
+top=1.15in,
+bottom=1.25in]{geometry}
+\setlength{\footskip}{.5in}
+
 % header-includes:
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-\fancyhead[LO,LE]{Chapter 1 - Vikram Apte}
+\fancyhead[LO,LE]{$title$ - $character$}
 \fancyhead[RO,RE]{Lemma}
 \fancyfoot[CO,CE]{\thepage}   
+
+\usepackage{setspace}
+\onehalfspacing
+
+\usepackage[colorlinks = true,
+linkcolor = blue,
+urlcolor  = blue,
+citecolor = blue,
+anchorcolor = blue]{hyperref}
 
 \else % if luatex or xelatex
   \ifxetex
@@ -69,7 +84,6 @@ $endif$
 $if(verbatim-in-note)$
 \usepackage{fancyvrb}
 $endif$
-\usepackage[unicode=true]{hyperref}
 $if(colorlinks)$
 \PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
 $endif$
