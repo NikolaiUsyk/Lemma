@@ -10,6 +10,7 @@ permalink: /chapters/
 
 {% for allpage in site.pages %}
     {% if allpage.url > page.url %}
-    {{page.title}}
+        t={{allpage.title}}
+        [t]({{ site.baseurl }}{% post_url allpage.url %})
    {% endif%} 
 {% endfor %} 
