@@ -1,5 +1,12 @@
+---
+title: Intro to the Shevchenkos
+chapter: 1
+location: Kiev
+level: 2
+order: 1
+---
 
-* __Dmitri and Ivan Shevckenko__
+### Dmitri and Ivan Shevckenko
 
 Broad, gloomy Dmitri Shevchenko leaned forward in his chair in the second to last row of the Patriarchal Cathedral of the Resurrection of Christ in Kiev. He fiddled with his fingers and, in a practiced furtive way, scanned the room. The Patriarch raised the cup and wafer over his head, his back to the crowd he half-chanted, "Thine own of Thine own, we offer You, in behalf of all, and for all!"
 
