@@ -1,8 +1,6 @@
 ---
 Title: Intro to the Shevchenkos
-Date: 2017-07-08 17:00
 Chapter: 1
-Category: Section
 Location: Kiev
 Level: 2
 Order: 1

@@ -12,6 +12,7 @@
 *.cb2
 .vscode/*
 _site/*
+*/output/*
 
 ## Intermediate documents:
 *.dvi
