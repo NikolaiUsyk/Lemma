@@ -28,17 +28,15 @@ He didn't really hear her, he was looking at her thoughtfully. "I swear, you loo
 
 He looked away.  "Sure is." He seemed to snap out of it. "Yeah, those guys over there are engineers at the dock. They said all the servers is West Oz are down. Whatever the hell that means. I guess it means most of the other places in town are closed cause their systems and such are down. They were pretty excited when they came in."
 
-She feigned disinterest. She feigned things well. "So all of them?  That's what they said?"
+She feigned disinterest. She feigned things well. "So all of them?  Just in West Oz?  That's what they said?"
 
-"Yeah. Kept saying ALL, you know. Like, wow ALL of them. I don't know what that means. They said they know because they've got a special connection for sensitive industries."
+"Yeah apparently everyone else is fine. Kept saying ALL, you know. Like, wow ALL of them. I don't know what that means. They said they know because they've got a special connection at the port."
 
 She downed her drink, left a ten on the table and turned in her chair almost before he stopped talking.
 
 "Hey, what? It's only 6." He called.
 
- She didn't answer. On the way back to the car she searched her options.
-
- -- Satellite isn't an option, no way to encrypt, and so slow.  They'll find her before it's even up.  Not that it would really matter, but who wants the hassle and 1 week to month in a local bumblefuck lockup.  She takes off for Adelaide.
+ She didn't answer. On the way back to the car she searched her options. Farmers have satellite, but it's slow and hard to positively anonymize. Too risky. She needed to be on the move; the car was technically stolen now, not that he could report it.  Brad was probably home early freaking out. She set out for the border into the big nothing[^dist].
 
 [^seg]:
     A seg fault - short for segmentation fault is a fatal runtime error^2^ in a computer program, usually caused by requesting access to a memory location not available to the program.
@@ -47,10 +45,13 @@ She downed her drink, left a ten on the table and turned in her chair almost bef
     Portions of programs written in compiled languages^3^ are executed at two different times, compile time and runtime. Compile time is when the compiler translates the source code into binary, this is when errors are most obvious.  Runtime is when the computer executes the binary instructions.
 
 [^lang]:
-    Computer languages fall into two general categories based on their mechanism of operation: compiled and interpreted. Compiled langauges are translated into binary and then run, interpreted languages can be run by being passed through an interpreter.
+    Computer languages fall into two general categories based on their mechanism of operation: compiled and interpreted. Compiled languages are translated into binary and then run, interpreted languages can be run by being passed through an interpreter.
 
 [^Harris]:
     Australian Bob Ross-type television painter and paedophilic sex criminal.
+
+[^dist]:
+    Western Australia is the second largest country subdivision by area.  It would be the tenth largest country in the world.  It's roughly 1,000 miles to the border with South Australia.
 
 <!--
 - You'd never know what she did for a living by looking at her.
