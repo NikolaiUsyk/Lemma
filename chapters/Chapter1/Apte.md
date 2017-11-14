@@ -60,7 +60,7 @@ Vikram almost started into his narrative even though he knew it would only make 
 
 "The hospital! The..."
 
-"Shut up!" He roared and slammed his fist on the envelope. "Shut up. People are going to die, this is a natural disaster. And you show up at 9 am. This is your flight to Perth. It leaves in 1 hour 45 minutes. You miss it, you're fired. Go." 
+"Shut up!" He roared and slammed his fist on the envelope. "Shut up. People are going to die, this is a natural disaster. And you show up at 9 am. This is your flight to Adelaide. It leaves in 1 hour 45 minutes. You miss it, you're fired. Rent a car and drive to Perth. Go." 
 
 ---
 <!--
