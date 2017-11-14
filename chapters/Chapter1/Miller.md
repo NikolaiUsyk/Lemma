@@ -14,19 +14,39 @@ Suddenly, but expectedly, her memory cut out. Like a seg fault[^seg][^run][^lang
 
 Albany: a metropolis in its surroundings, globally a speck. She coasted up a deserted York Street halfway to the water and parked illegally covert alley. She expected there to be more of a to-do considering the lack of communications. A vision of a possible apocalpyse flashed in her head like that tv series from the States, vague notions of all the good people being raptured and society crumbling. Of course, she wouldn't be ascended she acknowledged without a hint of guilt. She would likely be in god's bottom 5% with Charles Manson and Rolf Harris[^Harris]. She wrapped her head with a pastel shawl and oversize sunglasses, a Hollywood burqa. Why had she come here, specifically? It was almost automatic. She remembered that she remembered a bar from a long time ago within a couple blocks, longshoremen drank there when they existed. Who was it at that time? Ethan maybe, one of the first. It's as good a place as any to find out what's happening.
 
--------
+She stepped in and looked around unhesitatingly before taking a seat at the bar. Classic rock played at a murmur from an old mechanical jukebox. The bartender was her age; he was slowly restocking the shelves noting levels on a small pad. A group of mostly younger guys in jeans and Oxford shirts were drinking a pitcher at a high table in the corner. She took off her glasses and ordered a whisky and coke to the bartender's back. He turned, and her stomach dropped in a way it rarely did; he was an acquaintance from high school, Reggie the fat kid.  What the hell is with today?
 
-Takes car to bar to see WTF is happening.  Talks to bartender, he almost recognizes her from decades ago.  "I swear, you look just like Meghan Harper.  I went to school with her.  But you look like you take care of yourself, she certainly didn't.  Must look about 100 right now."  She's kind of wearing sunglasses and a shawl like an incognito movie star.  It's a dive, like the kind that would have been really rowdy in 1975 when longshoremen were a thing.  Now it's a divey gastropub for the dock engineers.  Who I guess must all be there (Actually takes cash, that's why it's open.  Says "Back in 2022, when everything went cashless the owner decided to keep it.  Just in case you know.").  Only the young ones are there.  She considers a sad older mentor giving her half an eye as a potential mark, but chastises herself for it.  Finds out all the servers are down.  Satellite isn't an option, no way to encrypt, and so slow.  They'll find her before it's even up.  Not that it would really matter, but who wants the hassle and 1 week to month in a local bumblefuck lockup.  She takes off for Adelaide.  
+He paused momentarily, "Sure thing." Filling the glass with ice, he asked "Well alright?"
 
--------
+"Yeah."
 
-[^seg]: 
+He made it strong, and passed it to her on a dusty napkin. She took a sip. Time was of the essence; she decided to be direct. "So what the hell is going on?" She asked, her arms crossed on the bar like a disappointed principal.
+
+He didn't really hear her, he was looking at her thoughtfully. "I swear, you look just like this girl, woman, Meghan Harper. I went to school with her in Alice Springs. But you look like you take care of yourself, she certainly didn't."
+
+"Hmm. Odd. It's an odd day." She stared at him deadpan.
+
+He looked away.  "Sure is." He seemed to snap out of it. "Yeah, those guys over there are engineers at the dock. They said all the servers is West Oz are down. Whatever the hell that means. I guess it means most of the other places in town are closed cause their systems and such are down. They were pretty excited when they came in."
+
+She feigned disinterest. She feigned things well. "So all of them?  That's what they said?"
+
+"Yeah. Kept saying ALL, you know. Like, wow ALL of them. I don't know what that means. They said they know because they've got a special connection for sensitive industries."
+
+She downed her drink, left a ten on the table and turned in her chair almost before he stopped talking.
+
+"Hey, what? It's only 6." He called.
+
+ She didn't answer. On the way back to the car she searched her options.
+
+ -- Satellite isn't an option, no way to encrypt, and so slow.  They'll find her before it's even up.  Not that it would really matter, but who wants the hassle and 1 week to month in a local bumblefuck lockup.  She takes off for Adelaide.
+
+[^seg]:
     A seg fault - short for segmentation fault is a fatal runtime error^2^ in a computer program, usually caused by requesting access to a memory location not available to the program.
 
-[^run]: 
-    Portions of programs written in compiled languages^3^ are executed at two different times, compile time and runtime. Compile time is when the compiler translates the source code into binary, this is when errors are most obvious.  Runtime is when the computer executes the binary instructions. 
+[^run]:
+    Portions of programs written in compiled languages^3^ are executed at two different times, compile time and runtime. Compile time is when the compiler translates the source code into binary, this is when errors are most obvious.  Runtime is when the computer executes the binary instructions.
 
-[^lang]: 
+[^lang]:
     Computer languages fall into two general categories based on their mechanism of operation: compiled and interpreted. Compiled langauges are translated into binary and then run, interpreted languages can be run by being passed through an interpreter.
 
 [^Harris]:
@@ -37,4 +57,5 @@ Takes car to bar to see WTF is happening.  Talks to bartender, he almost recogni
 - Scammer? Kinda, hacker-ish, black-hat. Hacked passwords and was going to sell on dark web.
 abuse in her past. 50 years old, looks like a yoga teacher (kinda), but not clean living.
 - Albany to Perth is 4.5 hours.
+- AI does something to connect her with Vikram while they drive in opposite directions.
 -->

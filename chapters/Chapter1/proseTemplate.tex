@@ -1,4 +1,5 @@
 \documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$babel-lang$,$endif$$if(papersize)$$papersize$paper,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
+\usepackage{bigfoot}%{manyfoot}
 $if(beamerarticle)$
 \usepackage{beamerarticle} % needs to be loaded first
 $endif$
@@ -32,7 +33,7 @@ bottom=1.25in]{geometry}
 \pagestyle{fancy}
 \fancyhead[LO,LE]{$title$ - $character$}
 \fancyhead[RO,RE]{Lemma}
-\fancyfoot[CO,CE]{\thepage}   
+\fancyfoot[CO,CE]{\thepage}
 
 \usepackage{setspace}
 \onehalfspacing
@@ -221,7 +222,7 @@ $endif$
 % set default figure placement to htbp
 \makeatletter
 \def\fps@figure{htbp}
-\makeatother  
+\makeatother
 
 $if(title)$
 \title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
