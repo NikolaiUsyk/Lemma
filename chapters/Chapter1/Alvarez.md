@@ -8,7 +8,15 @@ order: 6
 
 ### Cristina Alvarez
 
-She leaves her house near the fortress on the Rio De La Plata/Atlantic Ocean.  It's windy and crisp, late March and the leaves are turning.  She walks along the park path along the coast, vaguely in the direction of her parents house although it's much too far away to walk.  It's weak magnetism.  At one point after her reverie about her boyfriend (Juan, Diego, Rodolfo, Luis, Cristian, Jose, Leonardo, *Jorge*?) she crosses her arms **or** folds them and is half surprised her pregnancy bump is gone.  Fruitless.
+Thought of the moment.  Landscape, ocean, park, parents.
+
+Hands miss bump.  Thougths of Jose.  Plans. 
+
+Chill.  Break reverie.  Practical thought again.  Call private eye?  
+
+An alert on phone on the doorstep of her parents' house.  Jose?
+
+She leaves her house near the fortress on the Rio De La Plata/Atlantic Ocean.  It's windy and crisp, late March and the leaves are turning.  She walks along the park path along the coast, vaguely in the direction of her parents house although it's much too far away to walk.  It's weak magnetism.  At one point after her reverie about her boyfriend (Juan, Diego, Rodolfo, Luis, Cristian, Jose, Leonardo, *Jorge*?) she crosses her arms **or** folds them and is half surprised her pregnancy bump is gone.  Fruitless.  
 
 Nice theme - Where does the river end and the ocean begin?  She realizes that it's a cliche question.
 
